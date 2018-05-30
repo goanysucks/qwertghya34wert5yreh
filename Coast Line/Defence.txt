@@ -1,0 +1,119 @@
+Penthouse default
+
+Castle
+
+Castle Bigwindow
+Castle Pool door
+Castle Luggage door
+Reinforce Theater
+
+
+Bluebar:
+
+Castle Impacts
+
+Reinforce Hooka hatch and wall
+Castle Kitchen door
+Castle Hooka window
+Castle pool to auq door
+Play 90
+
+
+Kitchen:
+
+Castle Impacts
+
+Castle Kitchen door
+Reinforce Mira wall in kitchen
+Reinforce Kitchen wall itself
+Castle Bathroom door
+Castle Big Window
+
+
+
+
+
+
+
+**Penthouse1:
+
+|Echo Shield
+
+Reinforce Theater wall next to shield
+Shield to watch VIP window
+Echo drone on bed
+Play shield/theater
+
+
+---------------------------------------------------------------------
+
+
+**Penthouse2:
+
+|Echo Shield
+
+Reinforce Theater wall next to shield
+Shield to watch VIP window
+Echo drone on bed
+Play shield/theater
+
+
+---------------------------------------------------------------------
+
+
+Penthouse3:
+
+Castle Impacts 
+
+Castle sunrise and blue bar
+Reinforce kitchen wall close
+Impact rotate from Lobby to Bathroom
+Castle Front Door
+Play CCTV/Lobby
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kitchen1:
+
+Bandit Barbwire
+
+Reinforce kithcen wall
+Bandit downstairs mira
+Barbwire front door
+Battery Upstairs mira
+Barbwire hall of fame
+Battery the rest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
